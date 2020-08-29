@@ -5,6 +5,6 @@
 
 
 <div>
-<img  src="https://raw.githubusercontent.com/lukaneco/covid-mapa-por-departamentos-argentina/master/examples/foto.png"  width="auto"  height="300px">
+<img  src="https://raw.githubusercontent.com/lukaneco/covid-mapa-por-departamentos-argentina/master/examples/foto.png"  width="auto"  height="40%">
 </div>
   
